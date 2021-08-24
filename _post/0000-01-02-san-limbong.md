@@ -2,5 +2,6 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+yayaya
+asa
 Use the left arrow to go back!
